@@ -64,4 +64,5 @@ endmodule
 
 
 **RESULTS**
+
 Implementation-of-T-flipflop-using-verilog is verified
